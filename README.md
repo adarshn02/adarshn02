@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Adarsh Nikam 👋
 
 I'm an undergraduate student with a passion for Artificial Intelligence and Data Science. I'm enthusiastic about using technology to solve real-world problems and make data-driven decisions.
 
