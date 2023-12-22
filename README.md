@@ -5,7 +5,7 @@ I'm an undergraduate student with a passion for Artificial Intelligence and Data
 ## 🚀 Skills
 
 - **Programming Languages:** Python, C++, Java
-- **Web Development:** HTML, CSS
+- **Web Development:** HTML, CSS. JavaScript
 - **Data Science Libraries:** TensorFlow, NumPy, Pandas, Matplotlib
 - **Machine Learning:** Regression, Classification, Deep Learning
 - **Version Control:** Git and GitHub
