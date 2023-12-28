@@ -13,6 +13,8 @@ I'm an undergraduate student with a passion for Artificial Intelligence and Data
 ## 💼 Experience
 
 - Currently pursuing a Bachelor's degree in Artificial Intelligence and Data Science.
+- Worked as an Intern at a local startup called Mideara Enterprises.
+- Completed projects inn HTML, CSS and Javascript.
 - Completed projects in machine learning and deep learning using TensorFlow.
 - Proficient in data analysis, visualization, and manipulation with Python libraries.
 - Developed web applications with HTML and CSS.
