@@ -12,7 +12,7 @@ I'm an undergraduate with a passion for Artificial Intelligence and Data Science
 
 ## 💼 Experience
 
-- Currently pursuing a Bachelor's degree in Artificial Intelligence and Data Science.
+- Bachelor's degree in Artificial Intelligence and Data Science.
 - Worked as an Intern and Software Developer at a local startup called Mideara Enterprises.
 - Completed projects inn HTML, CSS and Javascript and Python
 - Completed projects in machine learning and deep learning using TensorFlow.
