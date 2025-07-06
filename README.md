@@ -1,6 +1,6 @@
 # Hello, I'm Adarsh Nikam 👋
 
-I'm an undergraduate student with a passion for Artificial Intelligence and Data Science. I'm enthusiastic about using technology to solve real-world problems and make data-driven decisions.
+I'm an undergraduate with a passion for Artificial Intelligence and Data Science. I'm enthusiastic about using technology to solve real-world problems and make data-driven decisions.
 
 ## 🚀 Skills
 
